@@ -1,0 +1,22 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+#title {
+  color: red;
+}
+#title {text-align: center;}
+#title {font-style: italic;}
+h2 {text-align: left;} 
+h2 {color: black;}
+h3{font-size: 70%;color: black;}
+h4 {font-size: 70%;color: black;}
+h5 {font-size: 70%;color: black;}
+h6 {font-size: 70%;color: black;}
+h7 {font-size: 70%;color: black;}
+h8 {font-size: 70%;color: black;}
+h9 {font-size: 70%;color: black;}
+h10 {font-size: 70%;color: black;}
+h11 {font-size: 70%;color: black;}
+h12 {font-size: 120%; color: black; text-align: center;}
+h13  {font-size: 120%; color:black; text-align: center; font-style: bold;}
